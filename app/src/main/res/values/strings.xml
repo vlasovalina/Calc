@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Home_Task_3</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_btn_7">7</string>
+    <string name="txt_btn_8">8</string>
+    <string name="txt_btn_9">9</string>
+    <string name="txt_btn_4">4</string>
+    <string name="txt_btn_5">5</string>
+    <string name="txt_btn_6">6</string>
+    <string name="txt_btn_1">1</string>
+    <string name="txt_btn_2">2</string>
+    <string name="txt_btn_3">3</string>
+    <string name="txt_btn_0">0</string>
+    <string name="txt_btn_duoble">.</string>
+    <string name="txt_btn_c">C</string>
+    <string name="txt_btn_divide">/</string>
+    <string name="txt_btn_increase">*</string>
+    <string name="txt_btn_minus">-</string>
+    <string name="txt_btn_plus">+</string>
+    <string name="txt_btn_equalse">=</string>
+    <string name="txt_label_result">RESULT</string>
+    <string name="txt_btn_back">BACK</string>
+</resources>
